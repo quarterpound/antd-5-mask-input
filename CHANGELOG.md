@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## 1.1.0 (2022-11-18)
+
+
+### Features
+
+* antd-5-migration changed import path to match new module structure of antd 5 ([71f24d6](https://github.com/quarterpound/antd-5-mask-input/commit/71f24d6e24179e133a7d9e2d5fe2ef12bcc60433))
+* antd-5-migration migrated to antd 5 ([9346b75](https://github.com/quarterpound/antd-5-mask-input/commit/9346b75d606e54c8fbdf7eff5f67c5d1400adf92))
+* updated readme ([d0d7875](https://github.com/quarterpound/antd-5-mask-input/commit/d0d7875f0bf6f3a0b43e5acd9c86567b6bf00fd0))
+
+
+### Bug Fixes
+
+* lib errors ([2c2ee0a](https://github.com/quarterpound/antd-5-mask-input/commit/2c2ee0a9a85edfc02ba63badc581f7119cbd8564))
+* TypeError: Cannot set property 'value' of null with react-test-renderer ([#19](https://github.com/quarterpound/antd-5-mask-input/issues/19)) ([cf913de](https://github.com/quarterpound/antd-5-mask-input/commit/cf913de84b6ff11895eed6a4d6859e9db9291d4e))
+* unhandled props.onChange refresh fix [#43](https://github.com/quarterpound/antd-5-mask-input/issues/43) ([23b9808](https://github.com/quarterpound/antd-5-mask-input/commit/23b9808a3e06b0d877bf5957400410612f60d9cf))
+* version ([104b4a6](https://github.com/quarterpound/antd-5-mask-input/commit/104b4a64a5162d3e0dd74d0786fa4462a965c3c7))
+
 ### [2.0.6](https://github.com/antoniopresto/antd-mask-input/compare/v2.0.3...v2.0.6) (2022-03-30)
 
 
