@@ -1,16 +1,17 @@
 {
-  "name": "antd-mask-input",
+  "name": "antd-5-mask-input",
   "version": "2.0.7",
-  "description": "Ant Design Mask Input",
+  "description": "Ant Design 5 Mask Input",
   "main": "build/main/index.js",
   "typings": "build/main/index.d.ts",
   "module": "build/module/index.js",
-  "repository": "https://github.com/antoniopresto/antd-mask-input",
+  "repository": "https://github.com/quarterpound/antd-5-mask-input",
   "license": "MIT",
   "keywords": [
     "react",
     "antd",
     "ant design",
+    "ant design 5",
     "mask input",
     "mask",
     "masked"
@@ -20,6 +21,10 @@
     {
       "name": "Eduardo Amaral",
       "url": "https://rolimans.dev"
+    },
+    {
+      "name": "Ali Gasimzade",
+      "url": "https://gasimzade.az"
     }
   ],
   "scripts": {
@@ -49,7 +54,7 @@
     "cov": "Rebuild, run tests, then create and open the coverage report"
   },
   "peerDependencies": {
-    "antd": ">=4.19.0",
+    "antd": ">=5.0.0",
     "react": ">=16.0.0"
   },
   "devDependencies": {
