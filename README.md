@@ -2,7 +2,7 @@
 
 An [Ant Design Input](https://ant.design/components/input/) component for `<input>` masking, built on top of [imask](https://imask.js.org/guide.html).
 
-> The version 2.0.0 Requires antd >= 4.19.0 - for previous versions use the version `0.1.15`
+> The version 1.0.0 Requires antd >= 5.0.0
 
 ## Install
 
